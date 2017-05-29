@@ -1,6 +1,6 @@
-# SAS-Programming-Essentials-I
+# Business Analytics Learning Path
 
-This is a recordkeeping of my progress of learning SAS.
+This is a recordkeeping of my progress of learning Business Analytics. I came across the subject through Analytics Vidhya. Here is the [Analytics Vidhya link for Business Analyst using R](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-business-analyst-sas/).
 
 Lesson 1 and 2 dealt with getting started with SAS. I was able to download the SAS Studio where the coding is actually written in. I learned about the sntax errors, difference between DATA and PROC, and step boundaries.
 
